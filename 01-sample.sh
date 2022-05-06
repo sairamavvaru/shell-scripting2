@@ -2,5 +2,3 @@
 
 #ls
 echo $SHELL
-
-# shell
