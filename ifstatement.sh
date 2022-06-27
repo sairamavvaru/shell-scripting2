@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ $name= "" ];
+if [ $name = "" ];
 then
 echo "name is empty"
 else
